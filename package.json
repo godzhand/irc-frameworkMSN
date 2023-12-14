@@ -1,7 +1,7 @@
 {
-  "name": "irc-framework",
+  "name": "irc-frameworkMSN",
   "version": "4.13.1",
-  "description": "A better IRC framework for node.js",
+  "description": "A better IRC framework for node.js + MSNChat Gatekeeper Authentication",
   "main": "src/",
   "browser": "dist/browser/src/",
   "dependencies": {
@@ -52,17 +52,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kiwiirc/irc-framework.git"
+    "url": "git+https://github.com/godzhand/irc-frameworkMSN.git"
   },
   "keywords": [
     "IRC",
     "bot",
-    "messaging"
+    "messaging",
+    "GateKeeper",
+    "IRCX"
   ],
-  "author": "prawnsalad",
+  "author": "prawnsalad, modified by ravi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kiwiirc/irc-framework/issues"
+    "url": "https://github.com/godzhand/irc-frameworkMSN/issues"
   },
-  "homepage": "https://github.com/kiwiirc/irc-framework#readme"
+  "homepage": "https://github.com/godzhand/irc-frameworkMSN#readme"
 }
